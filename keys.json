@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "FX-ARAFAT": 9999
+  },
+  "ADMIN_KEYS": [
+    "FX-ARAFAT"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
